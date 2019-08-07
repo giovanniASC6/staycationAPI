@@ -14,6 +14,3 @@ fetch(req)
             newCard.appendChild(newText)
         }
     })
-
-
-    
